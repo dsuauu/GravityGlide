@@ -1,0 +1,23 @@
+{
+  "name": "gravityglide",
+  "version": "1.0.0",
+  "description": "Gravity Glide is a Pygame game where players control a character navigating through a gravity-distorted environment.",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsuauu/GravityGlide"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "starsmasher": "1.0.0"
+  }
+}
